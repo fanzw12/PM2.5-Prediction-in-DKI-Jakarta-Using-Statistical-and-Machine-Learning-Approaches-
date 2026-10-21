@@ -29,7 +29,3 @@ The preprocessing steps include:
 
 ## Exploratory Data Analysis
 Exploratory analysis is conducted to understand the characteristics and distribution of PM2.5 concentrations through descriptive statistics and data visualizations.
-
-## Project Status
-This notebook covers the data preparation and initial analysis stages. Further work includes time series modeling, machine learning, and model performance evaluation.
-
