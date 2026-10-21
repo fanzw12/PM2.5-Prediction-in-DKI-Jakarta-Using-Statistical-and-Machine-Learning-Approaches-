@@ -5,7 +5,7 @@
 This project focuses on data preprocessing and exploratory data analysis (EDA) of hourly PM2.5 concentrations in DKI Jakarta, Indonesia. The analysis aims to prepare the dataset for further statistical analysis and machine learning modeling.
 
 ## Dataset
-The dataset covers hourly observations from January 2020 to December 2024 across air quality monitoring stations in DKI Jakarta.
+The dataset covers hourly observations from January 2022 to December 2024 across air quality monitoring stations in DKI Jakarta (Bundaran HI, Kelapa Gading, Jagakarsa, Lubang Buaya, and Kebon Jeruk).
 
 The data includes:
 - PM2.5 concentration as the target variable
