@@ -19,7 +19,7 @@ The study combines air quality and meteorological data from five monitoring stat
 
 The dataset consists of hourly observations collected from five air quality monitoring stations in DKI Jakarta, Indonesia.
 
-- **Study Period:** January 1, 2020 – December 31, 2024
+- **Study Period:** January 1, 2019 – December 31, 2022
 - **Temporal Resolution:** Hourly
 - **Study Area:** DKI Jakarta, Indonesia
 - **Target Variable:** PM2.5 concentration (µg/m³)
@@ -44,6 +44,7 @@ Meteorological data were obtained from ERA5, a global atmospheric reanalysis dat
 The meteorological variables include:
 
 - **Air Temperature (°C)**
+- **Dew Point Temperature (°C)**
 - **Solar Radiation (W/m²)**
 - **Rainfall (mm)**
 - **Relative Humidity (%)**
@@ -59,7 +60,7 @@ The study covers five monitoring stations in DKI Jakarta:
 2. DKI2 – Kelapa Gading
 3. DKI3 – Jagakarsa
 4. DKI4 – Lubang Buaya
-5. Kebon Jeruk
+5. DKI5 - Kebon Jeruk
 
 ## 4. Project Workflow
 
