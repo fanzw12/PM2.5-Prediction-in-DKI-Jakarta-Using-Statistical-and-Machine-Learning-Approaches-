@@ -1,4 +1,4 @@
-# PM₂.₅ Concentration Prediction in DKI Jakarta Using Statistical and Machine Learning Approaches 
+# PM₂.₅ Prediction in DKI Jakarta Using Statistical and Machine Learning Approaches 
 
 ## 1. Project Overview
 
